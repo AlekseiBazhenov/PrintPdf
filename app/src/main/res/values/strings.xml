@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Проф ИТ 1С</string>
+    <string name="searching_for_printer">Поиск принтера…</string>
+    <string name="see_advanced_options">Расширенные настройки</string>
+    <string name="scan_again">Повторить сканирование</string>
+    <string name="view_select_printers">Просмотр/Выбор</string>
+    <string name="refresh_printers">Обновить</string>
+    <string name="connecting_to_printer">Подключение к принтеру…</string>
+    <string name="cancel">Отмена</string>
+    <string name="waiting_printer">Ожидание принтера … может потребоваться ручной ввод</string>
+    <string name="connected">Принтер: Подключен</string>
+    <string name="connecting">Принтер: Подключение…</string>
+    <string name="searching">Принтер: Поиск bluetooth устройств</string>
+    <string name="printer_not_found">Принтер не найден!</string>
+    <string name="printer_found"> bluetooth устройства найдены</string>
+    <string name="no_discovered">Устройства не обнаружены</string>
+    <string name="searching_error">\nОшибка при поиске устройства:\n</string>
+    <string name="return_str">Вернуться</string>
+    <string name="canselling">Отменяется…</string>
+    <string name="cancelled">ОТМЕНЕНО</string>
+    <string name="connected_printer">Подключен принтер: </string>
+    <string name="printer_connected">Принтер подключен....</string>
+    <string name="no_printers_found">Принтеры не найдены!</string>
+    <string name="discovery_finished">Поиск завершен, </string>
+    <string name="printers_found"> принтеров найдено</string>
+    <string name="choose_printer_from_list">Выберите принтер из списка</string>
+    <string name="searching_default_printer">Поиск принтера по умолчанию: </string>
+    <string name="reconnecting_to_printer">Повторное подключение к принтеру…</string>
+    <string name="discovery_error">Ошибка при поиске: </string>
+    <string name="choose_printer">Выберите принтер</string>
+
+    <string name="admin">Администратор</string>
+    <string name="start_1c">1С</string>
+    <string name="start_file_manager">Проводник</string>
+    <string name="start_settings">Настройки</string>
+
+    <string name="error_app_not_found">Приложение не установлено</string>
+</resources>
